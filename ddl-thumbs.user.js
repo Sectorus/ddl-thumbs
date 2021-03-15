@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         DDL Preview
+// @name         DDL Thumbs
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
+// @version      1.0
+// @description  Adds thumbnails to ddl-warez lists
 // @author       You
 // @match        https://ddl-warez.to/*
 // @grant        none
