@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Adds thumbnails to ddl-warez lists
-// @author       You
+// @author       Sectorus
 // @match        https://ddl-warez.to/*
 // @grant        none
 // ==/UserScript==
