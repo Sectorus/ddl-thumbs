@@ -21,8 +21,8 @@ var elements = document.getElementsByClassName('no_overflow');
 
 	var img = document.createElement("img");
 	img.src = matches[0].slice(0, -1);
-	img.width = 200;
-	img.height = 300;
+	img.width = 150;
+	img.height = 230;
 	element.appendChild(img);
     }
     catch (e) {
